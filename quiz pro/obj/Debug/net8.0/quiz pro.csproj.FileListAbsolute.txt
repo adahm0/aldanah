@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\quiz pro\bin\Debug\net8.0\quiz pro.exe
+C:\Users\user\Desktop\quiz pro\bin\Debug\net8.0\quiz pro.deps.json
+C:\Users\user\Desktop\quiz pro\bin\Debug\net8.0\quiz pro.runtimeconfig.json
+C:\Users\user\Desktop\quiz pro\bin\Debug\net8.0\quiz pro.dll
+C:\Users\user\Desktop\quiz pro\bin\Debug\net8.0\quiz pro.pdb
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.AssemblyInfo.cs
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.dll
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\refint\quiz pro.dll
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.pdb
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\quiz pro.genruntimeconfig.cache
+C:\Users\user\Desktop\quiz pro\obj\Debug\net8.0\ref\quiz pro.dll
